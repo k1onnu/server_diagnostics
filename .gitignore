@@ -1,0 +1,19 @@
+# Виртуальное окружение
+.venv/
+venv/
+env/
+ENV/
+
+# Кэш Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Настройки VS Code
+.vscode/
+.idea/
+
+# Системный мусор
+.DS_Store
+Thumbs.db
